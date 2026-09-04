@@ -1,0 +1,2 @@
+3 sorces AI gets its training data from is Public and Open Source Data,  User Interactions and Online Behavior, and Anonymized Private and Sensitive Data.
+One major benefit of AI is its ability to automate routine and time consuming tasks that previously required human effort, such as data entry, scheduling, or customer service interactions
