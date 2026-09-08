@@ -1,0 +1,7 @@
+3 sorces AI gets its training data from is Public and Open Source Data,  User Interactions and Online Behavior, and Anonymized Private and Sensitive Data.
+
+One benefit of AI is its ability to automate routine and time consuming tasks that previously required human effort, such as data entry, scheduling, or customer service interactions
+
+One negative consequence of AI is job displacement and economic inequality. AI systems become more advanced, they can automate tasks that were once done by humans, from manufacturing and data entry to customer service and transportation
+
+I see AI in the next five years is 
