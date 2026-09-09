@@ -1,7 +1,7 @@
-STRING - characters that are wrapped within quotes.
-characters can be letters, numbers, and symbols.
-you can use both single and double quotation
-marks for string.
+# STRING - characters that are wrapped within quotes.
+# characters can be letters, numbers, and symbols.
+# you can use both single and double quotation
+# marks for string.
 
 'Kobe Bryant'
 
@@ -9,10 +9,10 @@ marks for string.
 
 'This cost $100 dollars'
 
-the hastag is a marker that makes anything written
-behind it invisible to the computer.
+# the hastag is a marker that makes anything written
+# behind it invisible to the computer.
 
-INTEGERS - datatypes that are just whole numbers, or numbers
+# INTEGERS - datatypes that are just whole numbers, or numbers
 # without a decimal point. 
 # we dont have to add any special symbols. we can write the number
 # as is. 
