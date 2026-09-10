@@ -3,3 +3,7 @@
 A code repository is a digital space for storing files and folders, specifically code.
 
 A variable is a container that stores data like it must start with letter and cannot start with a number, can be a mixd of letters and numbers But not symbols, and Cannot be a python keyword
+
+A computer keyword is an input device because your putting information and the computer to get a response back like a mouse.
+
+One variable rule is it can be a mixd of letters and numbers But not symbols
