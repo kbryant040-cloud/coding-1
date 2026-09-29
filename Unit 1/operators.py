@@ -19,7 +19,7 @@ print(3 - 3) # subtraction operator
 print(12 / 3) # division operator
 print(3 * 4) # multiplication operator
 
-# Comparison Operators - Set of symbols used
+# Comparison Operators - Set of symbols usedw
 # to assess if data is the same or different and
 # how they differ
 

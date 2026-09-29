@@ -1,3 +1,15 @@
 Kobe
 10th
 Alegbra 2
+
+
+
+
+gpa = 89
+credits = 42
+
+# Check conditions
+if gpa > 85 and credits > 40:
+    print(False)  # Student does not need summer school
+else:
+    print(True)   # Student needs summer school
