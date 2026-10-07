@@ -40,9 +40,9 @@ def calculate_Multiple():
 
     # Division function
     def calculate_Divide():
-    print("Program has started: please type 2 numbers to Divided: ")
-    num1 = int(input())
-    num2 = int(input())
-    print(num1 / num2)
-
+      print("Program has started: please type 2 numbers to Divided: ")
+      num1 = int(input())
+      num2 = int(input())
+      print(num1 / num2)
+  
     # calculate_Division
