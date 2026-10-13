@@ -13,6 +13,6 @@ compareNumber()
 def compareHonorroll():
  print("PROGRAM IS RUNNING: please type in a number")
  grade= int(input())
- print("please type in your absenses: ")
+ 
  
     
