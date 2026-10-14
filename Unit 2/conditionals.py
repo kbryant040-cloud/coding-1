@@ -29,3 +29,35 @@ def colloge():
     else:
         ccApp()
 
+
+# Using the calaulator functions from the calculator.py file,
+# Create a main calculator function that uses if/else logic to
+# allow the user to selct different arithmetic operators and
+# then perfrom those operations by running their respective functions.
+
+# Example: an input where if the user enter q, it will run the addition function.
+# 1= addition()
+# 2= subtraction()
+# 3= multiplication()
+# 4= division()
+
+def calculate_add():
+    print("program has started: please type in 2 numbers to add ")
+    num1 = int(input())
+    num2 = int(input())
+    print(num1 + num2)
+    print("program has ended. ")
+
+
+choice = input("please a number: ")
+
+if choice == '1':
+    calculate_add()
+elif choice == '2':
+
+
+
+# Class Assignment
+if age is 7 or younger:
+    print(price = 8.00) 
+if age == 8
