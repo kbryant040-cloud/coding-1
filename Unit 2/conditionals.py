@@ -58,6 +58,19 @@ elif choice == '2':
 
 
 # Class Assignment
-if age is 7 or younger:
-    print(price = 8.00) 
-if age == 8
+
+def movieTicket():
+    print("Welcome to the movie theater. Please type in your age ")
+    age = int(input())
+    if age <= 7:
+        print("your ticket is 8.00. ")
+    elif age >= 8 and age <= 20:
+        print('your ticket is 12.00') 
+    elif age >= 21 and age <= 60:
+        print('your ticket is 20.00')
+    elif age >=61:
+        print("your ticket is free. ")
+    else:
+        print("sorry there was an error in the program...")
+
+movieTicket()
