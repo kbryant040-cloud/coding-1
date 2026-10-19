@@ -1,0 +1,15 @@
+1# The game that im going to be building is a marvel and dc game but seperate.
+# In the game that im building going to be like mortal combat but about dc and marvel.
+
+
+2# I wnat my players to do is fight, some are bad guys, some are good guys, and i want it to look realistic as possible.
+
+
+3# When you complete the objective you can fight a different character or if your in story mode you move to the next level or opponent.
+
+
+4# When the player fails there objective they would loose and have an option to restart or go back to lobby.
+# If you are in story mode you would restart where you was before you died or lose and fight that character again.
+
+
+5# Mortal combat, batman the arkamth night, and dragon ball z
