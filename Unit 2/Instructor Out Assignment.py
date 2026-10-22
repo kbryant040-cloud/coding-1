@@ -5,7 +5,7 @@ def vending_machine():
         if number == "B3":
             print("You got Nacho Chips!")
         elif number == "G4":
-            print("You hoy BBQ Chips!")
+            print("You got BBQ Chips!")
         elif number == "G7":
             print("You got Plain Chips!")
         elif number == "D3":
