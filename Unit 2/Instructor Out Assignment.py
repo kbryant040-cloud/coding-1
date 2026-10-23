@@ -19,3 +19,32 @@ def vending_machine():
             print("Invalid number. Try again.")
 
 vending_machine()
+
+
+
+
+
+
+
+# Friday assignment
+import random
+
+def dice_game():
+    score = 0
+    choice = input("Enter 'r' to roll or 'q' to quit: ").lower()
+
+    while choice == 'r':
+        roll = random.randint(1, 7)
+        print(f"You rolled: {roll}")
+
+        if roll == 7:
+            score += 10
+            print("You win! +10 points")
+        else:
+            score -= 5
+            print("You lost! -5 points")
+
+        print(f"Current score: {score}")
+        choice = input("Roll again? (r to roll, q to quit): ").lower()
+
+    print(f"Game over! Final score: {score}")
