@@ -1,0 +1,18 @@
+# I want to create a fighting game with killing like mortal kombat.
+# The object of the game is to kill the person or AI your going against to win, you can 
+# play story mode, play against a friend, two players can play at the same time, and you can also 
+# learn combos to do on the person going against. 
+
+# The primary goal in Mortal Kombat is to win the brutal Mortal Kombat tournament by defeating all opponents 
+# including the final boss using your chosen fighters unique moves, special attacks, 
+# and signature fatalities to secure victory
+
+# In Mortal Kombat Mobile, the obstacles you face in challenges are the difficulty tiers and tower structures 
+# that make up each weekly event, they are designed to test your teams performance, 
+# strategy, and resource management. in the game is you fight until one of yall helath reach 0 
+# and the last person still standing wins. There are 2 rounds so if the person who 
+# lost the first round now has a chance to come back and win.
+
+
+# The Mortal Kombat aesthetic blends gritty, high contrast visual design with fantasy martial arts themes,
+characterized by dark cinematic tones, detailed character art, and iconic stage and costume elements
